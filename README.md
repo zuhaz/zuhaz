@@ -141,7 +141,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhaz&show_icons=true&locale=en" alt="zuhaz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="zuhaz" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaz&" alt="zuhaz" />
