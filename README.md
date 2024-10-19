@@ -39,8 +39,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="zuhaz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaz&" alt="zuhaz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhaz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="zuhaz" />
-</div>
+<h1 align="center">Github Stats</h1>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zuhaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="zuhaz" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhaz&" alt="zuhaz" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhaz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="zuhaz" />
+</p>
