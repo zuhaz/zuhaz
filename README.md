@@ -1,32 +1,8 @@
-<h1 align="center">Hey, I'm Zuhaz</h1>
-<h3 align="center">I like to code.</h3>
+<h1 align="center">About Me</h1>
+I'm Zuhaz, a student who began in medicine but found my passion in computer science. Coding excites me because it’s both fun and challenging, and I enjoy exploring different areas like app development, web development, etc. I like learning a variety of things while becoming skilled in a few. Outside of programming, I love drawing, reading, history, and anime, always seeking to expand my knowledge.
 
+<h1 align="center">Connect with Me</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zuhaz&label=Profile%20views&color=0e75b6&style=flat" alt="zuhaz" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zuhaz" alt="zuhaz" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/talalzuhaz" target="blank">
-    <img src="https://img.shields.io/twitter/follow/talalzuhaz?logo=twitter&style=for-the-badge" alt="talalzuhaz" />
-  </a>
-</p>
-
-## About Me
-
-- 🌱 I’m currently learning **Minecraft Development, App Development, and Web Development.**
-- 👨‍💻 All of my projects are available at [github.com/zuhaz](https://github.com/zuhaz)
-- 💬 Ask me about **Anything related to programming.**
-- ⚡ Fun fact: **I'm a medical student.**
-
-## Connect with Me
-
-<p align="left">
   <a href="https://dev.to/zuhaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuhaz" height="30" width="40" />
   </a>
@@ -47,9 +23,9 @@
   </a>
 </p>
 
-## Languages and Tools
+## A few Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -127,18 +103,8 @@
   </a>
 </p>
 
-## Support
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/zuhazt">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zuhazt" />
-  </a>
-  <a href="https://ko-fi.com/zuhaz">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zuhaz" />
-  </a>
-</p>
-
-## GitHub Stats
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuhaz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="zuhaz" />
